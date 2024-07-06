@@ -1,4 +1,4 @@
-body {
+    body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
     }
@@ -8,7 +8,7 @@ body {
     display: flex;
     }
     header h1 a {
-    color: red;
+    color: gold;
     text-decoration: none;
     }
     .nav-left {
@@ -34,6 +34,6 @@ body {
     font-weight: 400;
     }
     .post-entry h2 a:hover {
-        color: red;
+        color:red;
     }
         
