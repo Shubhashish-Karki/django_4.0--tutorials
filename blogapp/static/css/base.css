@@ -8,7 +8,7 @@
     display: flex;
     }
     header h1 a {
-    color: gold;
+    color: red;
     text-decoration: none;
     }
     .nav-left {
@@ -34,6 +34,6 @@
     font-weight: 400;
     }
     .post-entry h2 a:hover {
-        color:red;
+        color:green;
     }
         
