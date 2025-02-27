@@ -10,9 +10,9 @@ This repository includes step-by-step projects following the book's guidance. It
 - Deploying Django applications
 
 ## 💻Contents
-Message Board App - An app that allows users to post and read short messages.
-Blog App - A simple blog application that allows users to create, edit, and delete posts.
-Newspaper App - Users can post articles and only authenticated authors can edit or delete them.
+- Message Board App - An app that allows users to post and read short messages.
+- Blog App - A simple blog application that allows users to create, edit, and delete posts.
+- Newspaper App - Users can post articles and only authenticated authors can edit or delete them.
 
 ## 📖 Book Reference
 This repository follows *[Django for Beginners]* by William S. Vincent. If you're new to Django, I highly recommend checking out the book.
